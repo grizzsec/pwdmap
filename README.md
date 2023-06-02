@@ -3,4 +3,4 @@ Esta herramienta esta escrita en python3 y permite realizar un rápido escaneo d
 
 IMPORTANTE!
 
-Para que funcione esta herramienta es esencial tener la librería de Nmap para Python. La puedes instalar con el siguiente comando: pip install python-nmap
+Para que funcione esta herramienta es esencial tener la librería de Nmap para Python. La puedes instalar con el siguiente comando: pip install python-nmap y darle permisos de ejecución al script.
